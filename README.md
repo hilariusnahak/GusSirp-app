@@ -1,6 +1,4 @@
-<center>
-<h1>GusSirp</h1>
-</center>
+# GusSirp
 
 ## Workflow
 
@@ -49,8 +47,6 @@ Service users submit complaints, suggestions and input into the suggestion box o
 - Add new incoming and outgoing mail
 - CRUD letters
 
-<center>
-<h3>Process and Data<h3/>
-<center />
+### Process and Data
 
 ![Process and Data](GusSirp.png)
