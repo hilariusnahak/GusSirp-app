@@ -22,9 +22,6 @@
      - Javascript
      - React
      - Tailwind CSS
-     - Vite
-     - React Router
-     - React Hook Form
 
 ### Details
 
